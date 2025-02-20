@@ -5,7 +5,6 @@
 - [Overview](#overview)
 - [Features](#features)
 - [Technical Stack](#technical-stack)
-- [Dependencies](#dependencies)
 
 ## Overview
 
