@@ -6,7 +6,6 @@
 - [Features](#features)
 - [Technical Stack](#technical-stack)
 - [Dependencies](#dependencies)
-- [License](#license)
 
 ## Overview
 
