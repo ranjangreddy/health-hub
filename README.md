@@ -55,9 +55,3 @@ Welcome to the Hospital Management Console Program, a powerful C# application de
 
 ### Error Logger
 - **Error Logging:** Records all errors into a .txt file. The error log file is created in the same way as the database file, providing a record of program issues for debugging and analysis.
-
-## Dependencies
-My project relies on various dependencies to function seamlessly. To view a visual representation of the dependency graph, please check the [Dependency Graph](https://github.com/pvterek/Hospital/network/dependencies) for a comprehensive overview.
-
-## License
-This project is licensed under MIT License. See [LICENSE](LICENSE) file for comprehensive licensing details.
